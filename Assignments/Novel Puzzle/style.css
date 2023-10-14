@@ -1,0 +1,12 @@
+p{
+    width: 85%;
+    line-height: 1.5;
+
+}
+p::first-letter{
+    initial-letter: 3;
+}
+.word{
+    text-transform: uppercase;
+    font-weight: 700;
+}

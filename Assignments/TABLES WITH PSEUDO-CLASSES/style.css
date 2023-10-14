@@ -1,0 +1,28 @@
+table {
+    border-spacing: 0;
+    width: 30%;
+
+}
+
+td {
+    text-align: center;
+    color: white;
+}
+
+td,
+th {
+    padding: 10px;
+
+}
+
+tr:nth-child(even) {
+    background-color: green;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(131, 193, 131);
+}
+
+tr {
+    border-bottom: 1px solid white;
+}
