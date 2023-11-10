@@ -1,4 +1,14 @@
 p{
     background-color: burlywood;
     padding: 30px;
+
+}
+img{
+    float: left;
+    padding: 20px;
+}
+img:hover{
+    margin: 15px;
+    border: 3px dotted blue;
+
 }
